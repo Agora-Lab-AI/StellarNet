@@ -122,7 +122,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Project Lead**: [Your Name](mailto:contact@agoralab.ai)
 - **Website**: [https://agoralab.ai](https://agoralab.ai)
 - **Issues**: [GitHub Issues](https://github.com/Agora-Lab-AI/StellarNet/issues)
 - Twitter: [@kyegomez](https://twitter.com/kyegomez)
