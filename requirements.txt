@@ -1,5 +1,9 @@
-swarms
+numpy 
+pandas 
+astropy 
+scipy 
+scikit-learn 
+torch 
+lightkurve 
+matplotlib 
 loguru
-python-dotenv
-pyyaml
-swarm-models
