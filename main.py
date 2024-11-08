@@ -1,5 +1,5 @@
 
-!pip install numpy pandas astropy scipy scikit-learn torch lightkurve matplotlib loguru
+# !pip install numpy pandas astropy scipy scikit-learn torch lightkurve matplotlib loguru
 
 from typing import List, Dict, Optional, Tuple, Union, Any
 import numpy as np
